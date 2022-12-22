@@ -3,7 +3,7 @@ from google.cloud import secretmanager
 from google.oauth2 import service_account
 from google.api_core.exceptions import ClientError
 
-project_id = "pristine-sum-249722"
+project_id = ""
 secret_id = "outputs"
 version_id = "4"
 
